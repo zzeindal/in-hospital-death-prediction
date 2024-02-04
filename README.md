@@ -32,7 +32,7 @@ Members:
 To run the pipeline, execute the following steps:
 
 1. **Install Dependencies**
-   - Install the necessary dependencies describes in requirements.txt.
+   - Install the necessary dependencies described in requirements.txt.
 
 2. **Run Pipeline**
    - Execute the pipeline by running `python run_pipeline.py --data_path <path_to_dataset> [--test]`.
