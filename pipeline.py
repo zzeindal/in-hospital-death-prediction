@@ -13,7 +13,6 @@ class Pipeline:
         Attributes:
             model (Model): The machine learning model.
             preprocessor (Preprocessor): The data preprocessor.
-
         Methods:
             run(X, test=False): Execute the pipeline to train the model or make predictions.
     """
