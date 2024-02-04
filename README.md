@@ -8,7 +8,7 @@ Additionally we provided the dataset we trained the model on and the model predi
 ## Group
 Project provided was made by Team 1
 Members:
-- Aram Sarsian
+- Aram Sargsian
 - Karen Baghdasaryan
 - Meri Gasparyan
 
