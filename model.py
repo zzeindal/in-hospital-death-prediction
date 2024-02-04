@@ -17,7 +17,6 @@ class Model:
             Args:
                 X_train (array-like or pd.DataFrame): The training data.
                 y_train (array-like or pd.Series): The target values.
-
             Returns:
                 None
         """
