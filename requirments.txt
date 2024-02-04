@@ -1,3 +1,4 @@
-Python: 3.10.13
-Pandas: 2.2.0
-Sklearn: 1.4.0
+Requirements:
+  Python: 3.10.13
+  Pandas: 2.2.0
+  Sklearn: 1.4.0
